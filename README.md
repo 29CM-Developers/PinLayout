@@ -1,3 +1,7 @@
+Carthage 대응으로 인해 fork 해서 사용 중입니다.
+
+---
+
 <p align="center">
   <a href="https://github.com/layoutBox/PinLayout"><img src="docs/pinlayout-logo-text.png" width="200" /></a>
 </p>
